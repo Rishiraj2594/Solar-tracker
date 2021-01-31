@@ -17,6 +17,6 @@ Photoresistor-It is a type of resistor which can change resistance according to 
 ## Construction 
 We have to 3d some parts for servo and photoresitor so servo can move in circular manner and also in up down movements.
 And for photresitor we have mount four of them  on a circle with 4 divided segment for example, if left part is dark the panel move clockwise and when lower part is dark panel move upwards so it can always follow the brightest light source.
-![image](https://user-images.githubusercontent.com/78264424/106392335-4b94cb00-6417-11eb-9d08-bf63e2fa1f7a.png/200/200)
+![image](https://user-images.githubusercontent.com/78264424/106392335-4b94cb00-6417-11eb-9d08-bf63e2fa1f7a.png /100/100)
 
 
