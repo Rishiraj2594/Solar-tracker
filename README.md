@@ -20,3 +20,4 @@ And for photresitor we have mount four of them  on a circle with 4 divided segme
 ![image](https://user-images.githubusercontent.com/78264424/106392335-4b94cb00-6417-11eb-9d08-bf63e2fa1f7a.png)
 
 ![image](https://user-images.githubusercontent.com/78264424/106392560-66b40a80-6418-11eb-8f27-724cee5f39a4.png)
+Connect the servo and photo resitor according to the schematic.
