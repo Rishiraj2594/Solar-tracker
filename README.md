@@ -12,8 +12,10 @@ Photoresistor-It is a type of resistor which can change resistance according to 
 ## Required components 
 - 1x Arduino Nano
 - 2x SG90 Servo
-- Photoresistor
-- 1kohm Resistor
-## Components
+- 4x Photoresistor
+- 4x 1kohm Resistor
+## Construction 
+We have to 3d some parts for servo and photoresitor so servo can move in circular manner and also in up down movements.
+And for photresitor we have mount four of them  on a circle with 4 divided segment for example, if left part is dark the panel move clockwise and when lower part is dark panel move upwards
 
 
