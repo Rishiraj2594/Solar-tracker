@@ -7,4 +7,4 @@ Servos- A Servo Motor is a small device that has an output shaft. This shaft can
 Photoresistor-It is a type of resistor which can change resistance according to much light hit them.
 
 ## Solar-Tracker Image
-![solar]()
+![image](https://user-images.githubusercontent.com/78264424/106390075-affe5d00-640c-11eb-9820-8007ecc784aa.png)
