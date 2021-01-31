@@ -8,3 +8,12 @@ Photoresistor-It is a type of resistor which can change resistance according to 
 
 ## Solar-Tracker Image
 ![image](https://user-images.githubusercontent.com/78264424/106390256-7843e500-640d-11eb-90bd-7aa0e7237f62.png)
+
+## Required components 
+- 1x Arduino Nano
+- 2x SG90 Servo
+- Photoresistor
+- 1kohm Resistor
+## Components
+
+
