@@ -1,1 +1,5 @@
-# Solar-tracker
+Despcription
+This is basically a Arduino based model in which will how we can increase the efficiency of solar panel with servos and photoresistors.
+Servos- A Servo Motor is a small device that has an output shaft. This shaft can be positioned to specific angular positions by sending the servo a coded signal.
+Photoresistor-It is a type of resistor which can change resistance according to much light hit them.
+
